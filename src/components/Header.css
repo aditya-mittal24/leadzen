@@ -1,0 +1,20 @@
+.nav-link{
+    color: #111 !important;
+    padding: 10px 20px !important;
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.4s;
+    border-radius: 5px;
+    margin: 0 5px;
+    text-align: center;
+}
+.nav-link:hover{
+    color: #fff !important;
+    background-color: #5f3819;
+}
+.button{
+    border-radius: 100px 0px 100px 100px;
+    padding: 10px 30px;
+    color: #fff !important;
+    background-color: #5f3819;
+}
